@@ -1,13 +1,1 @@
-# Sistema / editor
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
 
-# Segredos
-.env
-.env.*
-.env.example
-*.pem
-*.key
-*.crt
