@@ -3,7 +3,7 @@
 # Rafael Cicarino
 
 ### Profissional com 25+ anos de experiência em gestão bancária  
-### Em transição para desenvolvimento de software e automação 
+### Em transição para desenvolvimento de software e automação
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Back-end+Developer+in+Progress;Python+%26+Automation+Enthusiast;APIs+%26+Systems+Integration;Always+Learning+New+Technologies" />
 
@@ -18,6 +18,10 @@ Profissional com mais de **25 anos de experiência como Gerente Geral no Banco I
 Nos últimos anos, venho direcionando minha carreira para tecnologia e desenvolvimento de software, estudando de forma prática e contínua:
 
 - Python
+- JavaScript
+- Node.js
+- HTML
+- CSS
 - APIs REST
 - Back-end
 - Automação de processos
@@ -41,7 +45,7 @@ Atualmente utilizo este GitHub para compartilhar:
 
 ### 💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs" width="150"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css" width="250"/>
 
 <br><br>
 
@@ -100,7 +104,19 @@ Busco constante evolução técnica e participação em projetos que gerem impac
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rafaelcicarino/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:rafael.cicarino@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<br><br>
+
+<a href="mailto:rafael.cicarino@gmail.com">
+  rafael.cicarino@gmail.com
 </a>
 
 </div>
@@ -109,6 +125,6 @@ Busco constante evolução técnica e participação em projetos que gerem impac
 
 <div align="center">
 
-###  "Tecnologia e experiência caminham juntas."
+### "Tecnologia e experiência caminham juntas."
 
 </div>
