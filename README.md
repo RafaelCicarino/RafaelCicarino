@@ -2,7 +2,7 @@
 
 # Rafael Cicarino
 
-### Desenvolvedor Back-end | Python • FastAPI • APIs REST • PostgreSQL  
+### Desenvolvedor Full Stack | Python, FastAPI, React e PostgreSQL | Automação e integrações com APIs  
 ### Transformo experiência em gestão, operações e relacionamento com clientes em soluções de software úteis, simples e orientadas a resultado.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Back-end+Developer+in+Progress;Python+%26+Automation+Enthusiast;APIs+%26+Systems+Integration;Always+Learning+New+Technologies" />
