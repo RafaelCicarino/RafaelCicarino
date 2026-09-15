@@ -2,8 +2,8 @@
 
 # Rafael Cicarino
 
-### Profissional com 25+ anos de experiência em gestão bancária  
-### Em transição para desenvolvimento de software e automação
+### Desenvolvedor Back-end | Python • FastAPI • APIs REST • PostgreSQL  
+### Transformo experiência em gestão, operações e relacionamento com clientes em soluções de software úteis, simples e orientadas a resultado.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Back-end+Developer+in+Progress;Python+%26+Automation+Enthusiast;APIs+%26+Systems+Integration;Always+Learning+New+Technologies" />
 
@@ -13,9 +13,9 @@
 
 ## 👋 Sobre mim
 
-Profissional com mais de **25 anos de experiência como Gerente Geral no Banco Itaú**, atuando em liderança, gestão operacional, estratégia comercial e relacionamento com clientes.
+Sou profissional de tecnologia em transição de carreira, após mais de 25 anos de experiência em gestão bancária no Itaú. Minha trajetória reúne liderança, visão de negócio, estratégia comercial e resolução de problemas — competências que hoje aplico no desenvolvimento de sistemas e automações.
 
-Nos últimos anos, venho direcionando minha carreira para tecnologia e desenvolvimento de software, estudando de forma prática e contínua:
+Atualmente, concentro meus estudos e projetos em desenvolvimento back-end com Python, FastAPI, APIs REST e PostgreSQL, além de JavaScript e React no front-end. Busco uma oportunidade na qual eu possa contribuir com maturidade profissional, aprendizado contínuo e foco em entregar soluções que resolvam problemas reais.
 
 - Python
 - JavaScript
