@@ -76,7 +76,7 @@ O sistema recebe currículos em PDF, identifica tecnologias e produz indicadores
 
 ---
 
-### 📊 [Lead WhatsApp](https://github.com/RafaelCicarino/Lead-Whatzapp)
+### 📊 [Lead WhatsApp Dashboard](https://github.com/RafaelCicarino/lead-whatsapp-dashboard)
 
 Sistema para importação e gerenciamento de planilhas de leads, com dashboard para acompanhamento de contatos comerciais pelo WhatsApp.
 
